@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>关于我</title>
+      <link>https://wchao0615.github.io/about/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wchao0615.github.io/about/</guid>
+      <description>Hi，我是一名95后前端工程师，毕业于新西兰怀卡托理工学院计算机信息技术学士学位。平常的爱好有撸铁、指弹、以及朋友聚餐等。
+与前端结缘于为当地著名旅游景点TongariroCrossing设计开发的毕业作品。当看到电脑里敲的每一行代码在游览器里展示出视觉效果的时候，我觉得非常神奇和开心。这种感觉在当时吸引了我，于是便决定做一名优秀的前端工程师。
+个人认为一个优秀的前端需要具备的能力有以下几点：
+ 根据需求编写简洁和可维护的代码 能从性能、体验、语言的最佳实践去思考并实践 产品、UI、测试以及后端同学的有效沟通 持续集成、组件化能力 具备写作能力，在社区分享自己的收获 BB的能力~  以上也是我正在努力和学习的方向，一起互勉！</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://wchao0615.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -55,15 +67,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://wchao0615.github.io/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://wchao0615.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wchao0615.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
     </item>
     
   </channel>
