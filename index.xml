@@ -6,10 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 10:49:38 +0800</lastBuildDate>
     
 	<atom:link href="https://wchao0615.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>React Hook 学习笔记</title>
+      <link>https://wchao0615.github.io/post/react-hook/</link>
+      <pubDate>Wed, 10 Jun 2020 10:49:38 +0800</pubDate>
+      
+      <guid>https://wchao0615.github.io/post/react-hook/</guid>
+      <description>最近花时间认真学习了下React Hook。
+React Hook 是React 16.8新增的特性。根据官方文档，主要为了解决三个方面的问题：
+ 在组件之间复用状态逻辑很难 复杂组件变得难以理解 难以理解的class  我将从一下三个维度展开</description>
+    </item>
     
     <item>
       <title>关于</title>
@@ -17,7 +28,7 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wchao0615.github.io/about/</guid>
-      <description>Hi，我是一名前端工程师，毕业于新西兰怀卡托理工学院计算机信息技术学士学位。平常爱好有健身、指弹、和朋友聚会吹吹水等。
+      <description>Hi，我是一名前端工程师，毕业于新西兰怀卡托理工学院计算机信息技术学士学位。平常喜欢健身、指弹、朋友聚会等等。
 与前端结缘于为当地著名旅游景点TongariroCrossing设计开发的毕业作品。那个时候看到电脑里敲的代码在游览器里展示出视觉效果的时候，我觉得还挺神奇的。正是因为这种感觉，于是我决定做一名优秀的前端工程师。
 个人认为一个优秀的前端需要具备的能力有以下几点：
  根据需求编写简洁和可维护的代码 能从性能、体验、语言的最佳实践去思考并实践 产品、UI、测试以及后端同学的有效沟通 持续集成、组件化能力 具备写作能力，在社区分享自己的收获 BB的能力~  以上也是我正在努力和学习的方向，一起互勉！</description>
@@ -39,34 +50,6 @@
       
       <guid>https://wchao0615.github.io/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://wchao0615.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wchao0615.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://wchao0615.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wchao0615.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://wchao0615.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wchao0615.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>
